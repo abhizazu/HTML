@@ -21,8 +21,8 @@
 <h2> Awards and Certificate</h2><br>
 <ul><li> Bangalore University, Silver medal</li></ul>
 <h2>Other</h2>
-<ul><li> <a href="./Language.txt"> Language</a> </li>
-<li> <a href="./Contact me.txt"> Contact Me</a></li> </ul>
+<ul><li> <a href="HTML/Language.txt"> Language</a> </li>
+<li> <a href="HTML/Contact me.txt"> Contact Me</a></li> </ul>
 <footer>
     <p>© Abhishek. All rights reserved.</p>
 </footer>
