@@ -1,5 +1,5 @@
 # HTML
-<!DOCTYPE html>
+
 <head>
  
 </head>
@@ -27,4 +27,4 @@
     <p>© Abhishek. All rights reserved.</p>
 </footer>
 </body>
-</html>
+
