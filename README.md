@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Abhishek D N</h1>
-    <img src="HTML/Images/1731080231445.jpeg" height="100" alt="my photo">
+    <img src="HTML/1731080231445.jpeg" height="100" alt="my photo">
     <h2>Summary</h2>
     <p>I am a hardworking and dedicate individual with experience in customer service and administration.</p>
 <hr>
